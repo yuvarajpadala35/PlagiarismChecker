@@ -2,7 +2,7 @@
 
 This repo consists of a source code of a python script to detect plagiarism in textual document using **cosine similarity**
 
-[![Become a patron](pictures/become_a_patron_button.png)](https://www.patreon.com/kalebujordan)
+
 
 ## How is it done?
 
@@ -12,16 +12,6 @@ We all all know that computer are good at numbers, so in order to compute the si
 
 This repo consist of a basic example on how to do that.
 
-
-## Getting started
-
-To get started with the code on this repo, you need to either *clone* or *download* this repo into your machine just as shown below;
-
-```bash
-git clone https://github.com/Kalebu/Plagiarism-checker-Python
-```
-
-## Dependencies 
 
 Before you begin playing with the source code you might need to install deps just as shown below;
 
